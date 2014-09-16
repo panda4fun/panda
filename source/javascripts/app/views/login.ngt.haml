@@ -1,0 +1,30 @@
+.row
+  .columns.small-6.large-offset-3
+    %form{role: 'form', name:'userForm', 'ng-submit'=>'signIn(user)'}
+      %h2 Авторизация
+      .row
+        .small-8
+          .row
+            .small-3.columns
+              %label.right.inline{:for => "right-label"} Email:
+            .small-9.columns
+              %input{ autofocus: '',
+                      placeholder: 'Email адрес',
+                      required: true,
+                      name: 'email',
+                      type: 'email',
+                      'ng-model'=>'user.email'}
+      .row
+        .small-8
+          .row
+            .small-3.columns
+              %label.right.inline{:for => "right-label"} Пароль:
+            .small-9.columns
+              %input{ placeholder: 'Пароль',
+                      required: true,
+                      name: 'password',
+                      type: 'password',
+                      'ng-model'=>'user.password'}
+      .row
+        .small-8.columns.small-centered
+          %button.button.tiny{type: 'submit'} Войти

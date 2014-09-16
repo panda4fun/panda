@@ -1,0 +1,30 @@
+english:
+--------
+
+/* TEAM */
+  Development and support: Headmade LLC
+  web: http://headmade.pro
+  email: info(@)headmade.pro
+
+/* SITE */
+  Language, framework: ruby
+  IDE: vim, sublime, ruby mine,
+  OS:  ubuntu, debian,
+  Data engine:  postgres, redis
+
+
+russian русский:
+----------------
+
+/* TEAM */
+  Разработка, поддержка и сопровождение портала открытых данных города Казань
+  ООО Хэдмейд
+  http://headmade.pro
+  info@headmade.pro
+
+/* SITE */
+  Языки программирования: ruby
+  IDE: vim, sublime, ruby mine
+  ОС: ubuntu, debian,
+  Хранение данных: postgres, redis
+
