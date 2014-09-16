@@ -12,13 +12,6 @@ gem 'bourbon'
 gem 'angular-html2js'
 
 gem 'jquery-rails', require: false
-gem 'rails-assets-lodash', require: false
-gem 'rails-assets-angular', require: false
-gem 'rails-assets-angular-route', require: false
-gem 'rails-assets-angular-resource', require: false
-gem 'rails-assets-angular-cookies', require: false
-gem 'rails-assets-angular-animate', require: false
-gem 'rails-assets-angular-ui-router', require: false
 
 
 

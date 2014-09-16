@@ -109,18 +109,6 @@ GEM
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
-    rails-assets-angular (1.2.23)
-    rails-assets-angular-animate (1.2.23)
-      rails-assets-angular (= 1.2.23)
-    rails-assets-angular-cookies (1.2.23)
-      rails-assets-angular (= 1.2.23)
-    rails-assets-angular-resource (1.2.23)
-      rails-assets-angular (= 1.2.23)
-    rails-assets-angular-route (1.2.23)
-      rails-assets-angular (= 1.2.23)
-    rails-assets-angular-ui-router (0.2.11)
-      rails-assets-angular (>= 1.0.8)
-    rails-assets-lodash (2.4.1)
     railties (4.1.5)
       actionpack (= 4.1.5)
       activesupport (= 4.1.5)
@@ -164,11 +152,4 @@ DEPENDENCIES
   jquery-rails
   middleman
   middleman-deploy
-  rails-assets-angular
-  rails-assets-angular-animate
-  rails-assets-angular-cookies
-  rails-assets-angular-resource
-  rails-assets-angular-route
-  rails-assets-angular-ui-router
-  rails-assets-lodash
   sass (= 3.2.19)
